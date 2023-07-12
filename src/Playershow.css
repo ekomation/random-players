@@ -1,0 +1,17 @@
+.image-show{
+	position: relative;
+	border: 3px solid lightgray;
+	padding: 10px;
+	border-radius: 10px;
+	margin: 10px;
+}
+
+.images{
+	height: 200px;
+}
+
+.logo{
+	position: absolute;
+	bottom: 10%;
+	right: 10%;
+}
